@@ -1,0 +1,15 @@
+{
+  "products" : [
+    { "id": 1, "book": "json-server", "author": "typicode" }
+  ],
+  "posts" : [
+    { "id": 1, "title": "json-server", "author": "typicode" }
+  ],
+  "comments" : [
+    { "id": 1, "body": "some comment", "postId": 1 }
+  ],
+  "students" : [
+    { "id": 1, "name": "json-server", "studentID": 1 }
+  ],
+  "proflies" : { "name" : "Poseidon"}
+}
